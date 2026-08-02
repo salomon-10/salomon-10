@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salomon Sika</h1>
+<h1 align="center">Hello, I'm Salomon Sika</h1>
 <h3 align="center">Software Engineering Student • Full Stack Developer • AI Enthusiast</h3>
 
 <p align="center">
@@ -13,11 +13,11 @@ Building modern web applications with a passion for Artificial Intelligence, cle
 
 ## About Me
 
-- 🎓 Software Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Currently learning **React**, **Spring Boot** and modern software architecture
-- ⚡ I enjoy turning ideas into real-world applications
+-  Software Engineering Student
+-  Passionate about Full Stack Development
+-  Interested in Artificial Intelligence and Machine Learning
+-  Currently learning **React**, **Spring Boot** and modern software architecture
+- I enjoy turning ideas into real-world applications
 
 ---
 
