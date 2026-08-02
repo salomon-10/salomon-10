@@ -94,15 +94,6 @@ Blockchain-based cooperative management platform focused on transparency, tracea
 
 ---
 
-## 🎯 Current Goals
-
-- Master React
-- Learn Spring Boot
-- Build scalable Full Stack applications
-- Explore AI integrations
-- Contribute to Open Source
-
----
 
 ## 🌍 Connect with me
 
@@ -124,6 +115,6 @@ Blockchain-based cooperative management platform focused on transparency, tracea
 
 ---
 
-## 💡 Favorite Quote
+## 💡 Favorites Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
